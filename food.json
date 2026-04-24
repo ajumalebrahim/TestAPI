@@ -1,16 +1,25 @@
 {
-"data" : {
-  "sampleAppetizer": {
-    "id": 1,
-    "name": "Test Appetizer",
-    "description": "This is the description for my appetizer. It's yummy.",
-    "price": 9.99,
-    "imageURL": "",
-    "calories": 99,
-    "protein": 99,
-    "carbs": 99
-  },
-  "appetizers": [
+  "data": [
+    {
+      "id": 1,
+      "name": "Test Appetizer",
+      "description": "This is the description for my appetizer. It's yummy.",
+      "price": 9.99,
+      "imageURL": "",
+      "calories": 99,
+      "protein": 99,
+      "carbs": 99
+    },
+    {
+      "id": 2,
+      "name": "Test Appetizer Two",
+      "description": "This is the description for my appetizer. It's yummy.",
+      "price": 9.99,
+      "imageURL": "",
+      "calories": 99,
+      "protein": 99,
+      "carbs": 99
+    },
     {
       "id": 1,
       "name": "Test Appetizer",
@@ -84,4 +93,4 @@
       "carbs": 99
     }
   ]
-}}
+}
